@@ -1,0 +1,3 @@
+Julia: Robustness diagram, Iventory class w instantiation
+Kendall: Robustness diagram, Region class with marketplace
+Conner: Ship class, travelling (within Game[?])

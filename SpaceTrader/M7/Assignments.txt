@@ -1,0 +1,11 @@
+Kendall: -finding examples of design principles already in code
+-create new examples if necessary
+-refactor code if necessary
+
+Conner:
+
+Julia:
+
+Javier:
+
+Santiago:

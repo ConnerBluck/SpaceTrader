@@ -1,0 +1,9 @@
+Javier: Police encounter frontend
+
+Santiago: Bandit encounter frontend
+
+Conner: Trader encounter backend & frontend
+
+Kendall: Encounter generator; prepare Checkstyle script; Police backend
+
+Julia: Bandit backend; NPC icons for XC

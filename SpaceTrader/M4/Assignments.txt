@@ -1,0 +1,16 @@
+Initial Assignments:
+
+Kendall: Region and Universe class, front end
+Julia: Region and Universe class, front end
+Conner: Game class, Enum TechLevel
+Santiago: Sequence Diagram
+Javier: Player class
+
+
+What was done:
+
+Julia: Region, In Region, Front End functionality, RoundButton, Game, Controller
+
+Kendall: SSD, Controller, Game, InRegion, Player, Region, RoundButton, TechLevel, Universe
+
+Conner: Controller, Game, GameDifficulty, Player, Region, TechLevel, 
